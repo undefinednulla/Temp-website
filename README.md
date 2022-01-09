@@ -1,4 +1,4 @@
-# **XIN CHÀO! ĐÂY LÀ FILE SETUP CHO DỰ ÁN DÙNG `HTML` `Sass` `Javascript`** 
+# **ĐÂY LÀ FILE SETUP CHO DỰ ÁN DÙNG `Html` `Sass` `Javascript`** 
 
 ## **1. Cấu Trúc Thư Mục**
 
@@ -31,7 +31,7 @@
         sass --watch app.scss:../css/app.css
         ```
         *file `app.css` sẽ ở trong thư mục `./assets/css`*
-        
+
 - Push file lên `Github`
     
     - Tạo và push file lên github
