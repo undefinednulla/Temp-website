@@ -1,4 +1,4 @@
-# **ĐÂY LÀ FILE SETUP CHO DỰ ÁN DÙNG `Html` `Sass` `Javascript`** 
+# **FOLDER-SETUP CHO DỰ ÁN `HTML` `SASS` `JAVASCRIPT`** 
 
 ## **1. Cấu Trúc Thư Mục**
 
