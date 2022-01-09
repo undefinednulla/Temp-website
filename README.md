@@ -56,15 +56,7 @@
 - File custom `color.css` và `Setting.Json`  - [**Download**](https://github.com/undefinednulla/custom-vscode)
 
 
-## **4. Thông Tin Của Tôi**
-
-**`Facebook`** : [**Hai Dang**](https://www.facebook.com/haidanghahaha/)
-
-**`Main Github`** : [**Haidagn**](https://github.com/haidagn)
-
-**`Showcase Github`** : [**Undefined**](https://github.com/undefinednulla)
-
-## **5. Terminal**
+## **4. Terminal**
 
 
 ```
@@ -104,3 +96,21 @@ $ cp name.file changedName.file
 $ copy name.file changedName.file
 
 ```
+
+## **5. Extensions Chrome**
+
+- Eyedropper color
+
+- Page Ruler Redux
+
+- Visbug
+
+- React Developer Tool
+
+## **6. Thông Tin Của Tôi**
+
+**`Facebook`** : [**Hai Dang**](https://www.facebook.com/haidanghahaha/)
+
+**`Main Github`** : [**Haidagn**](https://github.com/haidagn)
+
+**`Showcase Github`** : [**Undefined**](https://github.com/undefinednulla)
