@@ -1,0 +1,5 @@
+@import "variables";
+@import "mixin";
+@import "reset";
+@import "global";
+// sass --watch app.scss:../css/app.min.css --style compressed
